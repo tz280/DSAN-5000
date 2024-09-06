@@ -1,0 +1,25 @@
+project:
+  type: website
+  resources: 
+    - transformed-images
+
+website:
+  title: "HW-1: Report"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Contents"
+        menu: 
+          - text: Pre-processing log
+            href: 
+          - text: Directory Tree
+            href: 
+
+format:
+  html:
+    theme: flatly
+    toc: true
+
+
+

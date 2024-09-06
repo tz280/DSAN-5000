@@ -1,0 +1,133 @@
+# Directory Tree
+
+Below we see the final directory tree for out project
+```
+./
+├── git.sh
+├── pixify
+│   ├── pixify
+│   │   ├── core.py
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── core.cpython-310.pyc
+│   │   │   ├── core.cpython-312.pyc
+│   │   │   ├── image.cpython-310.pyc
+│   │   │   ├── __init__.cpython-310.pyc
+│   │   │   ├── __init__.cpython-312.pyc
+│   │   │   └── utilities.cpython-312.pyc
+│   │   └── utilities.py
+│   ├── pixify.egg-info
+│   │   ├── dependency_links.txt
+│   │   ├── not-zip-safe
+│   │   ├── PKG-INFO
+│   │   ├── SOURCES.txt
+│   │   └── top_level.txt
+│   └── setup.py
+├── run.sh
+├── scripts
+│   ├── analysis.py
+│   ├── git.sh
+│   └── pre-process.py
+└── website
+    ├── build.sh
+    ├── deploy.sh
+    ├── index.qmd
+    ├── original-images
+    │   ├── IMG_0013.jpeg
+    │   ├── IMG_1486.jpeg
+    │   ├── IMG_1700.jpeg
+    │   ├── IMG_3071.jpeg
+    │   ├── IMG_4033.jpeg
+    │   ├── IMG_4186.jpeg
+    │   ├── IMG_4272.jpeg
+    │   ├── IMG_4799.jpeg
+    │   ├── IMG_4812.jpeg
+    │   ├── IMG_4950.JPG
+    │   ├── IMG_5144.jpeg
+    │   ├── IMG_5652.jpeg
+    │   ├── IMG_6018.jpeg
+    │   └── IMG_6024.jpeg
+    ├── pages
+    │   ├── documentation.qmd
+    │   ├── pre-processing-log.qmd
+    │   ├── results.qmd
+    │   └── tree.qmd
+    ├── _quarto.yml
+    ├── _site
+    │   ├── index.html
+    │   ├── original-images
+    │   │   ├── IMG_0013.jpeg
+    │   │   ├── IMG_1486.jpeg
+    │   │   ├── IMG_1700.jpeg
+    │   │   ├── IMG_3071.jpeg
+    │   │   ├── IMG_4033.jpeg
+    │   │   ├── IMG_4186.jpeg
+    │   │   ├── IMG_4272.jpeg
+    │   │   ├── IMG_4799.jpeg
+    │   │   ├── IMG_4812.jpeg
+    │   │   ├── IMG_4950.JPG
+    │   │   ├── IMG_5144.jpeg
+    │   │   ├── IMG_5652.jpeg
+    │   │   ├── IMG_6018.jpeg
+    │   │   └── IMG_6024.jpeg
+    │   ├── pages
+    │   │   ├── documentation.html
+    │   │   ├── pre-processing-log.html
+    │   │   ├── results.html
+    │   │   └── tree.html
+    │   ├── search.json
+    │   ├── site_libs
+    │   │   ├── bootstrap
+    │   │   │   ├── bootstrap-icons.css
+    │   │   │   ├── bootstrap-icons.woff
+    │   │   │   ├── bootstrap.min.css
+    │   │   │   └── bootstrap.min.js
+    │   │   ├── clipboard
+    │   │   │   └── clipboard.min.js
+    │   │   ├── quarto-html
+    │   │   │   ├── anchor.min.js
+    │   │   │   ├── popper.min.js
+    │   │   │   ├── quarto.js
+    │   │   │   ├── quarto-syntax-highlighting.css
+    │   │   │   ├── tippy.css
+    │   │   │   └── tippy.umd.min.js
+    │   │   ├── quarto-nav
+    │   │   │   ├── headroom.min.js
+    │   │   │   └── quarto-nav.js
+    │   │   └── quarto-search
+    │   │       ├── autocomplete.umd.js
+    │   │       ├── fuse.min.js
+    │   │       └── quarto-search.js
+    │   └── transformed-images
+    │       ├── 0001.png
+    │       ├── 0002.png
+    │       ├── 0003.png
+    │       ├── 0004.png
+    │       ├── 0005.png
+    │       ├── 0006.png
+    │       ├── 0007.png
+    │       ├── 0008.png
+    │       ├── 0009.png
+    │       ├── 0010.png
+    │       ├── 0011.png
+    │       ├── 0012.png
+    │       ├── 0013.png
+    │       └── 0014.png
+    └── transformed-images
+        ├── 0001.png
+        ├── 0002.png
+        ├── 0003.png
+        ├── 0004.png
+        ├── 0005.png
+        ├── 0006.png
+        ├── 0007.png
+        ├── 0008.png
+        ├── 0009.png
+        ├── 0010.png
+        ├── 0011.png
+        ├── 0012.png
+        ├── 0013.png
+        └── 0014.png
+
+20 directories, 106 files
+```

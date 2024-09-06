@@ -1,0 +1,9 @@
+---
+title: "HW-1: Report"
+---
+
+## Overview
+
+This assignment focuses on developing skills in automating data processing tasks and deploying a Quarto-based static website using Python and Bash scripting. The goal is to create an automated workflow that processes image data, generates insights, and deploys a website. Students are required to use Object-Oriented Programming (OOP) principles for structuring code. The assignment encourages independent problem-solving, advising against overreliance on tools like ChatGPT for coding.
+
+Backup practices are emphasized, recommending cloud storage and regular GitHub commits. Detailed instructions are provided for using Git and creating a shell script for synchronization. The workflow includes creating a Python package, processing images, applying methods like grayscale conversion, resizing, and saving results. Additionally, the assignment requires analyzing images, documenting steps, and building a Quarto website. Submission involves uploading the project to GitHub and Canvas, excluding the data folder.

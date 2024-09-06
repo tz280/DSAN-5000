@@ -1,0 +1,352 @@
+# Preprocessing log
+
+## IMG_4812.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_4812.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4812.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0001.png
+
+![](../transformed-images/0001.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0001-surface.png){width=800}
+
+
+        
+## IMG_1486.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_1486.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_1486.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0002.png
+
+![](../transformed-images/0002.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0002-surface.png){width=800}
+
+
+        
+## IMG_4950.JPG
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_4950.JPG){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4950.JPG
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0003.png
+
+![](../transformed-images/0003.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0003-surface.png){width=800}
+
+
+        
+## IMG_5144.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_5144.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_5144.jpeg
+    * shape: torch.Size([3, 1490, 1170])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0004.png
+
+![](../transformed-images/0004.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0004-surface.png){width=800}
+
+
+        
+## IMG_3071.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_3071.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_3071.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0005.png
+
+![](../transformed-images/0005.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0005-surface.png){width=800}
+
+
+        
+## IMG_0013.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_0013.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_0013.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0006.png
+
+![](../transformed-images/0006.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0006-surface.png){width=800}
+
+
+        
+## IMG_4799.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_4799.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4799.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0007.png
+
+![](../transformed-images/0007.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0007-surface.png){width=800}
+
+
+        
+## IMG_4033.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_4033.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4033.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0008.png
+
+![](../transformed-images/0008.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0008-surface.png){width=800}
+
+
+        
+## IMG_6018.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_6018.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_6018.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0009.png
+
+![](../transformed-images/0009.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0009-surface.png){width=800}
+
+
+        
+## IMG_6024.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_6024.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_6024.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0010.png
+
+![](../transformed-images/0010.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0010-surface.png){width=800}
+
+
+        
+## IMG_5652.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_5652.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_5652.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0011.png
+
+![](../transformed-images/0011.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0011-surface.png){width=800}
+
+
+        
+## IMG_4186.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_4186.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4186.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0012.png
+
+![](../transformed-images/0012.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0012-surface.png){width=800}
+
+
+        
+## IMG_1700.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_1700.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_1700.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0013.png
+
+![](../transformed-images/0013.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0013-surface.png){width=800}
+
+
+        
+## IMG_4272.jpeg
+
+The following is a log of the changes that have been made to this image
+
+![](../original-images/IMG_4272.jpeg){width=500}
+
+* Original image information 
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4272.jpeg
+    * shape: torch.Size([3, 3024, 4032])
+* Final image information 
+    * transformation details: 
+        * grayscale conversion
+        * resize: (h,w)=(100,100)
+        * rotate: theta=-90
+    * shape: torch.Size([1, 100, 100])
+    * path: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0014.png
+
+![](../transformed-images/0014.png){width=500}
+
+**Surface plot** 
+
+![](../transformed-images/0014-surface.png){width=800}
+
+
+        

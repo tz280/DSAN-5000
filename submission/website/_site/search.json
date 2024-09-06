@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "pages/tree.html",
+    "href": "pages/tree.html",
+    "title": "Directory Tree",
+    "section": "",
+    "text": "Directory Tree\nBelow we see the final directory tree for out project\n./\n├── git.sh\n├── pixify\n│   ├── pixify\n│   │   ├── core.py\n│   │   ├── __init__.py\n│   │   ├── __pycache__\n│   │   │   ├── core.cpython-310.pyc\n│   │   │   ├── core.cpython-312.pyc\n│   │   │   ├── image.cpython-310.pyc\n│   │   │   ├── __init__.cpython-310.pyc\n│   │   │   ├── __init__.cpython-312.pyc\n│   │   │   └── utilities.cpython-312.pyc\n│   │   └── utilities.py\n│   ├── pixify.egg-info\n│   │   ├── dependency_links.txt\n│   │   ├── not-zip-safe\n│   │   ├── PKG-INFO\n│   │   ├── SOURCES.txt\n│   │   └── top_level.txt\n│   └── setup.py\n├── run.sh\n├── scripts\n│   ├── analysis.py\n│   ├── git.sh\n│   └── pre-process.py\n└── website\n    ├── build.sh\n    ├── deploy.sh\n    ├── index.qmd\n    ├── original-images\n    │   ├── IMG_0013.jpeg\n    │   ├── IMG_1486.jpeg\n    │   ├── IMG_1700.jpeg\n    │   ├── IMG_3071.jpeg\n    │   ├── IMG_4033.jpeg\n    │   ├── IMG_4186.jpeg\n    │   ├── IMG_4272.jpeg\n    │   ├── IMG_4799.jpeg\n    │   ├── IMG_4812.jpeg\n    │   ├── IMG_4950.JPG\n    │   ├── IMG_5144.jpeg\n    │   ├── IMG_5652.jpeg\n    │   ├── IMG_6018.jpeg\n    │   └── IMG_6024.jpeg\n    ├── pages\n    │   ├── documentation.qmd\n    │   ├── pre-processing-log.qmd\n    │   ├── results.qmd\n    │   └── tree.qmd\n    ├── _quarto.yml\n    ├── _site\n    │   ├── index.html\n    │   ├── original-images\n    │   │   ├── IMG_0013.jpeg\n    │   │   ├── IMG_1486.jpeg\n    │   │   ├── IMG_1700.jpeg\n    │   │   ├── IMG_3071.jpeg\n    │   │   ├── IMG_4033.jpeg\n    │   │   ├── IMG_4186.jpeg\n    │   │   ├── IMG_4272.jpeg\n    │   │   ├── IMG_4799.jpeg\n    │   │   ├── IMG_4812.jpeg\n    │   │   ├── IMG_4950.JPG\n    │   │   ├── IMG_5144.jpeg\n    │   │   ├── IMG_5652.jpeg\n    │   │   ├── IMG_6018.jpeg\n    │   │   └── IMG_6024.jpeg\n    │   ├── pages\n    │   │   ├── documentation.html\n    │   │   ├── pre-processing-log.html\n    │   │   ├── results.html\n    │   │   └── tree.html\n    │   ├── search.json\n    │   ├── site_libs\n    │   │   ├── bootstrap\n    │   │   │   ├── bootstrap-icons.css\n    │   │   │   ├── bootstrap-icons.woff\n    │   │   │   ├── bootstrap.min.css\n    │   │   │   └── bootstrap.min.js\n    │   │   ├── clipboard\n    │   │   │   └── clipboard.min.js\n    │   │   ├── quarto-html\n    │   │   │   ├── anchor.min.js\n    │   │   │   ├── popper.min.js\n    │   │   │   ├── quarto.js\n    │   │   │   ├── quarto-syntax-highlighting.css\n    │   │   │   ├── tippy.css\n    │   │   │   └── tippy.umd.min.js\n    │   │   ├── quarto-nav\n    │   │   │   ├── headroom.min.js\n    │   │   │   └── quarto-nav.js\n    │   │   └── quarto-search\n    │   │       ├── autocomplete.umd.js\n    │   │       ├── fuse.min.js\n    │   │       └── quarto-search.js\n    │   └── transformed-images\n    │       ├── 0001.png\n    │       ├── 0002.png\n    │       ├── 0003.png\n    │       ├── 0004.png\n    │       ├── 0005.png\n    │       ├── 0006.png\n    │       ├── 0007.png\n    │       ├── 0008.png\n    │       ├── 0009.png\n    │       ├── 0010.png\n    │       ├── 0011.png\n    │       ├── 0012.png\n    │       ├── 0013.png\n    │       └── 0014.png\n    └── transformed-images\n        ├── 0001.png\n        ├── 0002.png\n        ├── 0003.png\n        ├── 0004.png\n        ├── 0005.png\n        ├── 0006.png\n        ├── 0007.png\n        ├── 0008.png\n        ├── 0009.png\n        ├── 0010.png\n        ├── 0011.png\n        ├── 0012.png\n        ├── 0013.png\n        └── 0014.png\n\n20 directories, 106 files"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HW-1: Report",
+    "section": "",
+    "text": "This assignment focuses on developing skills in automating data processing tasks and deploying a Quarto-based static website using Python and Bash scripting. The goal is to create an automated workflow that processes image data, generates insights, and deploys a website. Students are required to use Object-Oriented Programming (OOP) principles for structuring code. The assignment encourages independent problem-solving, advising against overreliance on tools like ChatGPT for coding.\nBackup practices are emphasized, recommending cloud storage and regular GitHub commits. Detailed instructions are provided for using Git and creating a shell script for synchronization. The workflow includes creating a Python package, processing images, applying methods like grayscale conversion, resizing, and saving results. Additionally, the assignment requires analyzing images, documenting steps, and building a Quarto website. Submission involves uploading the project to GitHub and Canvas, excluding the data folder."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "HW-1: Report",
+    "section": "",
+    "text": "This assignment focuses on developing skills in automating data processing tasks and deploying a Quarto-based static website using Python and Bash scripting. The goal is to create an automated workflow that processes image data, generates insights, and deploys a website. Students are required to use Object-Oriented Programming (OOP) principles for structuring code. The assignment encourages independent problem-solving, advising against overreliance on tools like ChatGPT for coding.\nBackup practices are emphasized, recommending cloud storage and regular GitHub commits. Detailed instructions are provided for using Git and creating a shell script for synchronization. The workflow includes creating a Python package, processing images, applying methods like grayscale conversion, resizing, and saving results. Additionally, the assignment requires analyzing images, documenting steps, and building a Quarto website. Submission involves uploading the project to GitHub and Canvas, excluding the data folder."
+  },
+  {
+    "objectID": "pages/pre-processing-log.html",
+    "href": "pages/pre-processing-log.html",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4812.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0001.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_1486.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0002.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4950.JPG\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0003.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_5144.jpeg\nshape: torch.Size([3, 1490, 1170])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0004.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_3071.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0005.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_0013.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0006.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4799.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0007.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4033.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0008.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_6018.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0009.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_6024.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0010.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_5652.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0011.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4186.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0012.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_1700.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0013.png\n\n\n\nSurface plot\n\n\n\n\nThe following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4272.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0014.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_4812.jpeg",
+    "href": "pages/pre-processing-log.html#img_4812.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4812.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0001.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_1486.jpeg",
+    "href": "pages/pre-processing-log.html#img_1486.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_1486.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0002.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_4950.jpg",
+    "href": "pages/pre-processing-log.html#img_4950.jpg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4950.JPG\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0003.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_5144.jpeg",
+    "href": "pages/pre-processing-log.html#img_5144.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_5144.jpeg\nshape: torch.Size([3, 1490, 1170])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0004.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_3071.jpeg",
+    "href": "pages/pre-processing-log.html#img_3071.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_3071.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0005.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_0013.jpeg",
+    "href": "pages/pre-processing-log.html#img_0013.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_0013.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0006.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_4799.jpeg",
+    "href": "pages/pre-processing-log.html#img_4799.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4799.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0007.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_4033.jpeg",
+    "href": "pages/pre-processing-log.html#img_4033.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4033.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0008.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_6018.jpeg",
+    "href": "pages/pre-processing-log.html#img_6018.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_6018.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0009.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_6024.jpeg",
+    "href": "pages/pre-processing-log.html#img_6024.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_6024.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0010.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_5652.jpeg",
+    "href": "pages/pre-processing-log.html#img_5652.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_5652.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0011.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_4186.jpeg",
+    "href": "pages/pre-processing-log.html#img_4186.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4186.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0012.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_1700.jpeg",
+    "href": "pages/pre-processing-log.html#img_1700.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_1700.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0013.png\n\n\n\nSurface plot"
+  },
+  {
+    "objectID": "pages/pre-processing-log.html#img_4272.jpeg",
+    "href": "pages/pre-processing-log.html#img_4272.jpeg",
+    "title": "Preprocessing log",
+    "section": "",
+    "text": "The following is a log of the changes that have been made to this image\n\n\nOriginal image information\n\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/data/IMG_4272.jpeg\nshape: torch.Size([3, 3024, 4032])\n\nFinal image information\n\ntransformation details:\n\ngrayscale conversion\nresize: (h,w)=(100,100)\nrotate: theta=-90\n\nshape: torch.Size([1, 100, 100])\npath: /home/jfh/Dropbox/work/workspace/HW-1-key/submission/website/transformed-images/0014.png\n\n\n\nSurface plot"
+  }
+]
