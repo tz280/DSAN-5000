@@ -4,12 +4,6 @@
 │   │   ├── __init__.py
 │   │   ├── core.py
 │   │   └── utilities.py
-│   ├── pixify.egg-info
-│   │   ├── PKG-INFO
-│   │   ├── SOURCES.txt
-│   │   ├── dependency_links.txt
-│   │   ├── not-zip-safe
-│   │   └── top_level.txt
 │   └── setup.py
 ├── run.sh
 ├── scripts
@@ -142,4 +136,4 @@
         ├── 0014-surface.png
         └── 0014.png
 
-18 directories, 124 files
+17 directories, 119 files

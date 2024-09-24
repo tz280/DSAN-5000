@@ -1,0 +1,6 @@
+setup.py
+pixify.egg-info/PKG-INFO
+pixify.egg-info/SOURCES.txt
+pixify.egg-info/dependency_links.txt
+pixify.egg-info/not-zip-safe
+pixify.egg-info/top_level.txt

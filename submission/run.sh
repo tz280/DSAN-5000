@@ -21,3 +21,25 @@ cd $script_path  #go back to folder with `run.sh` in it
 
 
 # COMPLETE THE REST HERE
+cd submission/scripts
+python3 process.py  
+cd $script_path 
+
+file="website/pages/tree.qmd"
+echo '# Directory Tree' > $file
+echo '' >> $file
+echo 'Below we see the final directory tree for our project' >> $file
+echo '' >> $file
+tree >> $file 
+
+tree > website/pages/tree.qmd
+
+cd website
+./build-and-deploy.sh
+
+cd ../submission/scripts
+./git.sh
+
+cd $script_path
+zip -r HW1-tz280.zip submission
+
